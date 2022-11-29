@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669754347 source:d:\seniors2\compilers\scanner\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+
